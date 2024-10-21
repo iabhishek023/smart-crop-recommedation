@@ -1,0 +1,134 @@
+[
+    {
+        "moisture": 20,
+        "temperature": 25,
+        "humidity": 55,
+        "recommendedCrop": "Corn"
+    },
+    {
+        "moisture": 35,
+        "temperature": 28,
+        "humidity": 60,
+        "recommendedCrop": "Rice"
+    },
+    {
+        "moisture": 45,
+        "temperature": 30,
+        "humidity": 70,
+        "recommendedCrop": "Wheat"
+    },
+    {
+        "moisture": 25,
+        "temperature": 22,
+        "humidity": 50,
+        "recommendedCrop": "Soybean"
+    },
+    {
+        "moisture": 30,
+        "temperature": 26,
+        "humidity": 65,
+        "recommendedCrop": "Barley"
+    },
+    {
+        "moisture": 40,
+        "temperature": 24,
+        "humidity": 80,
+        "recommendedCrop": "Millet"
+    },
+    {
+        "moisture": 15,
+        "temperature": 27,
+        "humidity": 45,
+        "recommendedCrop": "Sorghum"
+    },
+    {
+        "moisture": 50,
+        "temperature": 29,
+        "humidity": 75,
+        "recommendedCrop": "Sugarcane"
+    },
+    {
+        "moisture": 33,
+        "temperature": 23,
+        "humidity": 60,
+        "recommendedCrop": "Chickpeas"
+    },
+    {
+        "moisture": 55,
+        "temperature": 32,
+        "humidity": 85,
+        "recommendedCrop": "Paddy"
+    },
+    {
+        "moisture": 20,
+        "temperature": 29,
+        "humidity": 55,
+        "recommendedCrop": "Peanuts"
+    },
+    {
+        "moisture": 28,
+        "temperature": 25,
+        "humidity": 40,
+        "recommendedCrop": "Tomatoes"
+    },
+    {
+        "moisture": 22,
+        "temperature": 21,
+        "humidity": 50,
+        "recommendedCrop": "Cabbage"
+    },
+    {
+        "moisture": 38,
+        "temperature": 30,
+        "humidity": 65,
+        "recommendedCrop": "Potatoes"
+    },
+    {
+        "moisture": 42,
+        "temperature": 27,
+        "humidity": 75,
+        "recommendedCrop": "Onions"
+    },
+    {
+        "moisture": 30,
+        "temperature": 28,
+        "humidity": 68,
+        "recommendedCrop": "Garlic"
+    },
+    {
+        "moisture": 48,
+        "temperature": 26,
+        "humidity": 72,
+        "recommendedCrop": "Bell Peppers"
+    },
+    {
+        "moisture": 34,
+        "temperature": 24,
+        "humidity": 58,
+        "recommendedCrop": "Zucchini"
+    },
+    {
+        "moisture": 27,
+        "temperature": 31,
+        "humidity": 60,
+        "recommendedCrop": "Carrots"
+    },
+    {
+        "moisture": 39,
+        "temperature": 29,
+        "humidity": 82,
+        "recommendedCrop": "Lettuce"
+    },
+    {
+        "moisture": 44,
+        "temperature": 30,
+        "humidity": 90,
+        "recommendedCrop": "Cauliflower"
+    },
+    {
+        "moisture": 26,
+        "temperature": 25,
+        "humidity": 62,
+        "recommendedCrop": "Radishes"
+    }
+]
